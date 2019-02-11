@@ -1,3 +1,10 @@
+본 코드의 원본은 [pierluigiferrari/ssd_keras](https://github.com/pierluigiferrari/ssd_keras) 이며 해당 코드를 리뷰하며 공부한 것을 [Wiki](https://github.com/DonghunP/ssd_keras/wiki) 탭에 정리하였습니다.  
+궁금한 사항 있으시면, 메일이나 댓글 남겨주시면 답변드리겠습니다.  
+  
+이하 원본 Readme  
+  
+
+---
 ## SSD: Single-Shot MultiBox Detector implementation in Keras
 ---
 ### Contents
